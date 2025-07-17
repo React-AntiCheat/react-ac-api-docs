@@ -11,5 +11,5 @@ Thank you for your patience!
 ---
 
 **Contact:**  
-- [Discord](https://discord.gg/bmHX5Tx2Xc)  
-- [Email](mailto:support@react-ac.com)
+- [Discord](https://discord.gg/bmHX5Tx2Xc): https://dc.react-ac.com
+- [Email](mailto:support@react-ac.com): support@react-ac.com
